@@ -1,0 +1,24 @@
+{
+  "name": "gitty",
+  "version": "1.0.0",
+  "description": "git",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritul-Deshmukh/gitcourse.git"
+  },
+  "author": "Ritul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ritul-Deshmukh/gitcourse/issues"
+  },
+  "homepage": "https://github.com/Ritul-Deshmukh/gitcourse#readme",
+  "devdependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
